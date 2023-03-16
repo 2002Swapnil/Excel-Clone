@@ -1,0 +1,22 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2002Swapnil/Excel-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2002Swapnil/Excel-Clone/issues"
+  },
+  "homepage": "https://github.com/2002Swapnil/Excel-Clone#readme",
+  "devDependencies": {
+    "electron": "^23.1.4"
+  }
+}
